@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: 32px;
+    color: red;
+}
+
+.float-right {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
